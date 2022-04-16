@@ -1,5 +1,5 @@
 # class-project
-Small project that we had to do for our PHP class in school. Page was created using Bootstrap.
+Small project that we had to do for our PHP class in school in 2021. Page was created using Bootstrap.
 
 Page contains:
 - guestbook with connection to MySQL database
