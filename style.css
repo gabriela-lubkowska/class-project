@@ -1,0 +1,64 @@
+html,
+body {
+    height:100%;
+    font-size:1rem;
+    font-family: 'Montserrat', sans-serif;;
+}
+header{
+    height:100vh;
+}
+.mylogo{
+    height:40px;
+    width:auto;
+}
+.gradient{background: rgb(64,37,238);
+    background: linear-gradient(90deg, rgba(64,37,238,1) 44%, rgba(70,83,252,0.5018382352941176) 64%, rgba(70,205,252,0.3029586834733894) 85%);
+    
+}
+.page-header{
+    margin-top:4rem;
+    font-size: 1.25rem;
+    color:#ffff;
+    margin-bottom:0;
+}
+.graphic{
+    
+    height:57vh;
+    width:auto;
+}
+.form-control{
+    max-height:20vh;
+}
+.wpisy{
+    margin-top: 50px;
+    
+}
+.single-item{
+    background-color: #fff;
+    color: rgba(64,37,238,1);
+    box-shadow: -4px 6px 20px -1px rgba(0,0,0,0.61);
+}
+.single-item h4, p{
+    padding-left: 1vh;
+    padding-top:1vh;
+}
+.licznik{
+    color:rgba(64,37,238,1);
+}
+
+.gallery{
+    max-width:1200px;
+    margin:auto;
+    padding-top:2vh;
+
+}
+.gallery-background{
+    background: rgb(246,246,246);
+    height:auto;
+}
+.contact-page{
+    padding-top:2vh;
+}
+.contact-btn{
+    margin-top:2vh;
+}

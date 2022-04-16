@@ -1,0 +1,16 @@
+@media (min-width: 769px) {
+  .gradient{
+    background: rgb(239,240,247);
+background: linear-gradient(90deg, rgba(239,240,247,1) 15%, rgba(0,45,203,0.9304096638655462) 15%, rgba(0,45,203,0.9360119047619048) 85%, rgba(239,240,247,1) 85%);
+    min-height: 100%;
+    height:auto;
+}
+}
+
+@media (max-width: 769px) {
+  .gradient {
+    background: rgb(0,45,203);
+background: linear-gradient(90deg, rgba(0,45,203,1) 0%, rgba(0,45,203,1) 100%);
+    min-height: 100%;
+    height:auto;
+  }}
